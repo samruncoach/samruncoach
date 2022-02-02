@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samruncoach
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in PHP (Laravel), Android Mobile App, AWS Cloud Platform
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Automation projects
